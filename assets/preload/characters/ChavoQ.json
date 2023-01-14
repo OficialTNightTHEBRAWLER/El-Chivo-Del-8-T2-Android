@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chavo Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chavo Down0"
+		},
+		{
+			"offsets": [
+				-2,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chavo Up0"
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Chavo Left Miss"
+		},
+		{
+			"offsets": [
+				-15,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Chavo Down Miss"
+		},
+		{
+			"offsets": [
+				-6,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Chavo Up Miss"
+		},
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Chavo Right Miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "emote",
+			"indices": [],
+			"name": "Chavo Hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Chavo Death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "deathLoop",
+			"indices": [
+				20,
+				20,
+				20,
+				20,
+				20
+			],
+			"name": "Chavo Death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "deathConfirm",
+			"indices": [
+				20,
+				20,
+				20,
+				20
+			],
+			"name": "Chavo Death"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Chavo Right0"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Chavo Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chavo",
+	"position": [
+		250,
+		555
+	],
+	"healthicon": "quico",
+	"flip_x": true,
+	"healthbar_colors": [
+		233,
+		240,
+		125
+	],
+	"camera_position": [
+		-195,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
